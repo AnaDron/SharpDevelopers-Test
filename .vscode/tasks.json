@@ -11,7 +11,7 @@
 			},
 			"args": [
 				"build",
-				"${workspaceFolder}/Test/Test.csproj"
+				"${workspaceFolder}/WebApi/WebApi.csproj"
 			]
 		},
 		{
